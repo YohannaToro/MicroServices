@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SparkWebApp",
+            "request": "launch",
+            "mainClass": "edu.escuelaing.arem.SparkWebApp",
+            "projectName": "SparkWebApp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "edu.escuelaing.arem.App",
+            "projectName": "SparkWebApp"
+        }
+    ]
+}
